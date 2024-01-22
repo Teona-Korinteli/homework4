@@ -1,0 +1,219 @@
+ul {
+  font-family: "ALK Life", sans-serif;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+.navi-active {
+  color: #a62b28;
+}
+.navi  {
+  color: #717276;
+  display:flex;
+  margin-left: 20px; 
+}
+
+header {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 200px;
+  background-color: #d9d9d9;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: space-around; 
+  z-index: 1;
+  margin: auto 
+}
+
+
+
+footer {
+  color: #000000;
+  width: 100%;
+  height: 248px;
+  top: 2383px;
+  background-color: #d9d9d9;
+  display: flex;
+  align-items: center;  
+  position: absolute;
+  justify-content: space-around;
+  margin:auto;
+}
+
+
+
+.attributes {
+  color: #000000;
+   font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+
+}
+.socials {
+  margin-left: 30%;
+
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  background-color: #a62b28;
+}
+
+
+
+li:hover {
+ 
+  font-size: 120%;
+}
+
+.women {
+  width: 1180px;
+  height: 287px;
+  top: 360px;
+  left: 160px;
+  position: relative; 
+}
+.section1 {
+   width: 1180px;
+  height: 856px;
+  top: 807px;
+  left: 130px;
+  margin-left: 3%;
+  display: flex;
+  position:absolute
+    
+}
+.section-header {
+  display: inline-block;
+  width: 533px;
+  top: 0px;
+  height: 100px;
+  left: 0px;
+  position:absolute;
+  justify-content: center;
+}
+
+.books {
+  width: 1180px;
+  height: 716px;
+  top: 1947px;
+  left: 130px;
+  display: flex;
+  justify-content: space-between;
+  align-self: flex-end;
+
+}
+.section2 {
+
+  width: 1180px;
+  height: 400px;
+  top: 1823px;
+  left: 130px;
+  margin-left: 3%;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.section-header-2 {
+  display: inline-block;
+  width: 432px;
+  height: 100px;
+  
+  position:absolute;
+  justify-content: center;
+}
+
+.literature-2 {
+  
+  width: 393px;
+  height: 51px;
+  top: 0px;
+  left: 140px;
+  position: absolute;
+  justify-content: center;
+  
+  
+}
+
+.authors {
+ 
+  width: 1180px;
+  height: 260px;  
+  Top: 140px;
+  display: flex;
+  justify-content: space-between;
+  align-self: flex-end;
+}
+.img-box {
+  position: absolute;
+}
+
+.literature-1 {
+    width: 393px;
+  height: 51px;
+  top: 0px;
+  left: 140px;
+  position: absolute;
+  justify-content: center;
+  
+}
+.img-box {
+  width: 39.97px;
+  height: 40px;
+  top: 30px;
+  left: 30px;
+}
+
+.literature {
+  font-family: "DejaVu Sans", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 51px;
+  color: #717276;
+  display: inline-block;
+  
+}
+
+
+
+
+.melashvili {
+  width: 380px;
+  height: 686px;
+  top: 947px;
+  left: 130px;
+}
+.book-t {
+  font-family: "ALK Life", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #000000;
+
+}
+.author {
+  font-family: "DejaVu Sans", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 39px;
+  color: #717276;
+}
+
+.price {
+    font-family: "DejaVu Sans", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 39px;
+    color: #000000;
+  }
+
